@@ -11,4 +11,5 @@ podręczna przypominajka przykładowych implementacji wzorców projektowych
 * [Prototyp](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/kreacyjne/Prototyp.java)
 * [Singelton](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/kreacyjne/Singelton.java)
 ## Wzorce strukturalne
+* [Adapter](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Adapter.java)
 * [Most](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Most.java)
