@@ -1,7 +1,5 @@
 package strukturalne;
-
 import java.util.ArrayList;
-
 interface ComponentInterface {
     void process();
 }
@@ -11,7 +9,6 @@ public class Kompozyt {
         DesignPatternsComposite dpCom = new DesignPatternsComposite();
         dpCom.test();
     }
-
 }
 
 //
@@ -45,7 +42,6 @@ class Composite implements ComponentInterface {
                     child.process();
                 }
             }
-
         }
     }
 }
@@ -59,10 +55,6 @@ class Composite implements ComponentInterface {
 // wszystkie opracje wykonują się bez problemu
 //
 class DesignPatternsComposite {
-
-    public static void main(String[] args) {
-
-    }
 
     void test() {
 
