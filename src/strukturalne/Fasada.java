@@ -5,8 +5,6 @@ public class Fasada {
         OrderFacade order = new OrderFacade();
         System.out.println(order.PrepareOrder());
     }
-
-
 }
 
 class Produkt {
