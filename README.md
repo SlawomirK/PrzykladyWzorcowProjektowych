@@ -14,3 +14,4 @@ podręczna przypominajka przykładowych implementacji wzorców projektowych
 * [Adapter](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Adapter.java)
 * [Most](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Most.java)
 * [Dekorator](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Dekorator.java)
+* [Kompozyt](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Kompozyt.java)
