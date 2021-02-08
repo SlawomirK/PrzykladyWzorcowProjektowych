@@ -17,3 +17,4 @@ podręczna przypominajka przykładowych implementacji wzorców projektowych
 * [Kompozyt](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Kompozyt.java)
 * [Fasada](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Fasada.java)
 * [Proxy](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Proxy.java)
+* [Pylek](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Pylek.java)
