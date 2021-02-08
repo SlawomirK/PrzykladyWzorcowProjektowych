@@ -9,7 +9,7 @@ public class Mediator {
         var mediator = new ChatMediatorClass();
         var pawel = new User("Pawel", mediator);
         var tomek = new User("Tomek", mediator);
-        pawel.send("czesc tomek");
+        pawel.send("czesc Tomek");
         tomek.send("czesc Pawel");
     }
 }
