@@ -2,6 +2,7 @@ podręczna przypominajka przykładowych implementacji wzorców projektowych
 ## Spis treści
 * [Wzorce kreacyjne](#wzorce-kreacyjne)
 * [Wzorce strukturalne](#wzorce-strukturalne)
+* [Wzorce czynnościowe](#wzorce-czynnosciowe)
 
 
 ## Wzorce kreacyjne
@@ -18,3 +19,14 @@ podręczna przypominajka przykładowych implementacji wzorców projektowych
 * [Fasada](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Fasada.java)
 * [Proxy](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Proxy.java)
 * [Pylek](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/strukturalne/Pylek.java)
+## Wzorce czynnościowe
+* [Łańcuch odpowiedzialności](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/LancuchOdpowiedzialnosci.java)
+* [Mediator](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Mediator.java)
+* [Memento](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Memento.java)
+* [Metoda szablonowa](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/MetodaSzablonowa.java)
+* [Obserwator](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Obserwator_Main.java)
+* [Polecenie](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Polecenie.java)
+* [Stan](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Stan.java)
+* [Striategia](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Strategia.java)
+* [Visitor](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Visitor.java)
+* [Iterator](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Wzorzec_Iterator.java)
