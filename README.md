@@ -27,6 +27,6 @@ podręczna przypominajka przykładowych implementacji wzorców projektowych
 * [Obserwator](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Obserwator_Main.java)
 * [Polecenie](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Polecenie.java)
 * [Stan](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Stan.java)
-* [Striategia](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Strategia.java)
+* [Strategia](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Strategia.java)
 * [Visitor](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Visitor.java)
 * [Iterator](https://github.com/SlawomirK/PrzykladyWzorcowProjektowych/blob/master/src/czynnosciowe/Wzorzec_Iterator.java)
