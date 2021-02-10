@@ -1,14 +1,16 @@
 package kreacyjne;
 
-import java.sql.Savepoint;
-
-//Fabryka
+//MetodaWytworcza
 interface Pojazd {
-    public String getNazwa();
+    String getNazwa();
+}
+
+interface FabrykaPojazdow {
+    Pojazd budujPojazd(String nazwa);
 }
 
 class Rower implements Pojazd {
-   private String nazwa;
+    private final String nazwa;
 
     public Rower(String nazwa) {
         this.nazwa = nazwa;
@@ -20,7 +22,7 @@ class Rower implements Pojazd {
 }
 
 class Samochod implements Pojazd {
-   private String nazwa;
+    private final String nazwa;
 
     public Samochod(String nazwa) {
         this.nazwa = nazwa;
@@ -30,10 +32,6 @@ class Samochod implements Pojazd {
     public String getNazwa() {
         return nazwa;
     }
-}
-
-interface FabrykaPojazdow {
-    public Pojazd budujPojazd(String nazwa);
 }
 
 class FabrykaRowerow implements FabrykaPojazdow {
@@ -56,11 +54,12 @@ class FabrykaSamochodow implements FabrykaPojazdow {
     }
 }
 
-class Fabryka {
+class MetodaWytworcza {
+
 
     public static void main(String[] args) {
         FabrykaSamochodow fabrykaSamochodow = new FabrykaSamochodow();
-       Samochod samochod=fabrykaSamochodow.budujPojazd("Ford");
+        Samochod samochod = fabrykaSamochodow.budujPojazd("Ford");
         System.out.println(samochod.getNazwa());
     }
 
